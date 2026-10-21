@@ -1,6 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-- jekyll-include-cache
+remote_theme: just-the-docs/just-the-docs
 title: GeLie Schulungsmaterialien
-description: GeLie Schulungsmaterialien
-author: DATACIDERS SE
+color_scheme: light
+search_enabled: true
