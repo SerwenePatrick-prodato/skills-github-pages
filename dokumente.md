@@ -1,5 +1,5 @@
 ---
-title: "Adminschulung Neustadt an der Waldnaab"
+title: "Dokumente"
 date: 2026-10-14
 ---
 
@@ -10,7 +10,7 @@ if (password !== "MeinPasswort") {
 }
 </script>
 
-Hier die Multiple Choice Fragen: 
+Multiple Choice Fragen Adminschulung Neustadt an der Waldnaab: 
 <a href="/skills-github-pages/ragebait.pdf" target="_blank">
 PDF anzeigen
 </a>
